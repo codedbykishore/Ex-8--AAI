@@ -22,7 +22,7 @@ Step 11: Perform speech recognition with exceptional handling:<Br>
 •	A generic exception block captures any other unexpected errors.<Br>
 <H3>Program:</H3>
 
-```
+```python
 pip install SpeechRecognition
 pip install pyaudio
 
